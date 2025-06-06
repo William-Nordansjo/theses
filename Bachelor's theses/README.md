@@ -1,0 +1,1 @@
+BSc theses for the degrees of Politics and Economics titled "Regional Differences in Sustainable Development: An Environmental Kuznets Curve Analysis" and Statistics titled "Predicting Counter-Strike Matches using Machine Learning Methods"
